@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redes Sociais & contato</title>
+    <link rel="shortcut icon" href="Imagens&PDF/icon cute.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Minhas Redes Sociais & contato 🖥️</h1>
+    <h2>Quem sou eu ?</h2>
+    <img src="Imagens&PDF/Foto de Marlisson-200.jpg" alt="foto de Marlisson">
+    <p>Meu nome é <b>Marlisson dos Anjos Monte</b>, sou estudante de <b>Engenharia de Computação</b>,<br>
+    gosto de estudar Design, sou criativo e muito produtivo de diversas áreas.
+    </p>
+    <h3>Como falar comigo ?🔍</h3>
+    <ul>
+        <li><img src="Imagens&PDF/GitHub-50.jpg" alt="img GitHub"><a href="https://github.com/MarlissonMonte"target="_blank" rel="external">
+             /MarlissonMonte</a> - Me siga no GitHub.
+        <li><img src="Imagens&PDF/instagram-30.jpeg" alt="img Instagran"><a href="https://www.instagram.com/marliss0n/"target="_blank" rel="external">
+            /@marliss0n</a> - Me siha no Instagram. 
+        <li><img src="Imagens&PDF/gmail-30.jpg" alt="img gmail">/contatomarlisson@gmail.com - Entre em contato comigo.
+    </ul>
+    
+</body>
+</html>
